@@ -11,6 +11,7 @@ object testScala {
     val sc = new SparkContext(conf);
     
     val myList = List(23, 76, 1, 35, 49, 25, 30, 64);
+    val n=100;
     //println(myList);
     
   
